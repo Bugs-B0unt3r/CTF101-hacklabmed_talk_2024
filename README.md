@@ -14,7 +14,7 @@ La charla está diseñada para mostrar tanto a principiantes como a entusiastas 
 
 ## Contenidos
 
-- **Presentación en PowerPoint**: [Descargar aquí]
+- **Presentación en PowerPoint**: [[Descargar aquí](https://drive.proton.me/urls/TTCE5C1284#Ue1rV8tajUkA)]
 - **Mapas Conceptuales y Visuales**: Imágenes para entender mejor las categorías de CTFs.
 - **Repositorio de Herramientas**: Listado de herramientas esenciales para CTFs.
 
