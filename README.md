@@ -16,7 +16,7 @@ La charla está diseñada para mostrar tanto a principiantes como a entusiastas 
 
 - **Presentación en PowerPoint**: [[Descargar aquí](https://drive.proton.me/urls/TTCE5C1284#Ue1rV8tajUkA)]
 - **Mapas Conceptuales y Visuales**: Imágenes para entender mejor las categorías de CTFs.
-- **Repositorio de Herramientas**: Listado de herramientas esenciales para CTFs.
+- **Repositorio de Herramientas**: [Listado de herramientas esenciales para CTFs](https://github.com/Bugs-B0unt3r/CTF-Beginners-Toolkit).
 
 ## Requerimientos Técnicos durante el hacklab
 
